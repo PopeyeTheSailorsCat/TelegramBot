@@ -1,0 +1,6 @@
+pytest
+flake8
+requests==2.25.1
+datetime
+aiogram
+pytest-asyncio
